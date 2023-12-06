@@ -6,7 +6,7 @@ spring:
 build:
   version: "1.0.0"
 
-accounts:
+loans:
   message: "Welcome to Banks Account related prod APIs"
   contactDetails:
     name: "Reine - Product Manager"

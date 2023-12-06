@@ -6,7 +6,7 @@ spring:
 build:
   version: "2.0.0"
 
-accounts:
+cards:
   message: "Welcome to Banks Account related QA APIs"
   contactDetails:
     name: "Dani - QA Lead"

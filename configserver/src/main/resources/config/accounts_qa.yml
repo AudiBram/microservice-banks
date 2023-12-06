@@ -1,12 +1,7 @@
-spring:
-  config:
-    activate:
-      on-profile: "qa"
-
 build:
   version: "2.0.0"
 
-loans:
+accounts:
   message: "Welcome to Banks Account related QA APIs"
   contactDetails:
     name: "Dani - QA Lead"

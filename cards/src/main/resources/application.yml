@@ -22,7 +22,7 @@ spring:
 build:
   version: "3.0.0"
 
-accounts:
+cards:
   message: "Welcome to Banks Account related local APIs"
   contactDetails:
     name: "John Doe - Software Engineer"
