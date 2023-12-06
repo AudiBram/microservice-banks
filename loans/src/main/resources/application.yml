@@ -30,3 +30,9 @@ loans:
   onCallSupport:
     - (555) 555-1234
     - (555) 555-1345
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

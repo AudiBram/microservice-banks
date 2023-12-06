@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Banks Account related prod APIs"
   contactDetails:
     name: "Reine - Product Manager"
-    email: "reine@gmail.com"
+    email: "{cipher}d270f61648b27a87c89ee8111b5b674802a0b316f52b0593129925738bf98a1d@gmail.com"
   onCallSupport:
     - (453) 555-1234
     - (236) 555-1345
