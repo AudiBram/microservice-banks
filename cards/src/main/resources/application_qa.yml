@@ -1,0 +1,16 @@
+spring:
+  profiles:
+    active:
+      on-profile: "qa"
+
+build:
+  version: "2.0.0"
+
+accounts:
+  message: "Welcome to Banks Account related QA APIs"
+  contactDetails:
+    name: "Dani - QA Lead"
+    email: "dani@gmail.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 555-1345
