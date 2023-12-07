@@ -10,6 +10,7 @@
     </parent>
     <groupId>com.project</groupId>
     <artifactId>configserver</artifactId>
+    <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>configserver</name>
     <description>configserver</description>

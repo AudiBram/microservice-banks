@@ -19,5 +19,20 @@ spring:
 encrypt:
   key: "R2SDq%e1%|0by\bCD=Ql.~v6~]VHVO"
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  health:
+    readiness-state:
+      enabled: true
+    liveness-state:
+      enabled: true
+  endpoint:
+    health:
+      probes:
+        enabled: true
+
 server:
   port: 8071

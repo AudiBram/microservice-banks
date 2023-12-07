@@ -18,6 +18,7 @@ spring:
     import:
       - "application_qa.yml"
       - "application_prod.yml"
+      - "optional:configserver:http://localhost:8071/"
 
 build:
   version: "3.0.0"
